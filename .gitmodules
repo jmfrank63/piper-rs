@@ -1,0 +1,3 @@
+[submodule "piper/runtime-dependencies/espeak-ng"]
+	path = piper/runtime-dependencies/espeak-ng
+	url = https://github.com/jmfrank63/espeak-ng.git

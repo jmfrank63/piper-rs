@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "piper",
+    "piper-test",
+]
+resolver = "2"
